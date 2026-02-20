@@ -82,3 +82,16 @@
     letter-spacing: -0.05em;
     color: #ECEDF04D;
 }
+
+.main-image {
+  width: 1024px;
+  top: 100px;
+  z-index: -2;
+}
+
+.main-image image {
+  width: 100%;
+  max-width: 1024px;
+  height: auto;
+  display: block;
+}
